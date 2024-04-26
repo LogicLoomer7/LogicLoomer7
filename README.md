@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align="center"> <h1 align="center"> I am a data enthusiast who's super passionate about leveraging data-driven insights. </h1> </div>  
+<div align="center"> <h1 align="center"> I am a data enthusiast who's passionate about leveraging data-driven insights. </h1> </div>  
  
  
 
